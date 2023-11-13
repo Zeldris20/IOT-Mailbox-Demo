@@ -1,0 +1,14 @@
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\bin\Debug\net7.0\C#Chat.exe
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\bin\Debug\net7.0\C#Chat.deps.json
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\bin\Debug\net7.0\C#Chat.runtimeconfig.json
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\bin\Debug\net7.0\C#Chat.dll
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\bin\Debug\net7.0\C#Chat.pdb
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\obj\Debug\net7.0\C#Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\obj\Debug\net7.0\C#Chat.AssemblyInfoInputs.cache
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\obj\Debug\net7.0\C#Chat.AssemblyInfo.cs
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\obj\Debug\net7.0\C#Chat.csproj.CoreCompileInputs.cache
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\obj\Debug\net7.0\C#Chat.dll
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\obj\Debug\net7.0\refint\C#Chat.dll
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\obj\Debug\net7.0\C#Chat.pdb
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\obj\Debug\net7.0\C#Chat.genruntimeconfig.cache
+C:\Users\ZeldrisOW\Documents\git\ConsoleChatRoom\C#Chat\obj\Debug\net7.0\ref\C#Chat.dll
